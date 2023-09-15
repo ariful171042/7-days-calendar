@@ -1,0 +1,13 @@
+td {
+  padding: 50px 50px !important;
+  border: 1px solid #a39d9d;
+  background-color: transparent;
+}
+
+th {
+  border: 1px solid #a39d9d;
+}
+
+.table {
+  background-color: aliceblue;
+}
